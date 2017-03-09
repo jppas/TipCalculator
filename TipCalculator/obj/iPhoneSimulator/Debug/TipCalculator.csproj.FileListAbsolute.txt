@@ -1,0 +1,11 @@
+C:\Repo\GitHub\TipCalculator02\TipCalculator\bin\iPhoneSimulator\Debug\TipCalculator.exe
+C:\Repo\GitHub\TipCalculator02\TipCalculator\bin\iPhoneSimulator\Debug\TipCalculator.pdb
+C:\Repo\GitHub\TipCalculator02\TipCalculator\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Repo\GitHub\TipCalculator02\TipCalculator\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Repo\GitHub\TipCalculator02\TipCalculator\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Repo\GitHub\TipCalculator02\TipCalculator\obj\iPhoneSimulator\Debug\optimized\
+C:\Repo\GitHub\TipCalculator02\TipCalculator\obj\iPhoneSimulator\Debug\TipCalculator.csprojResolveAssemblyReference.cache
+C:\Repo\GitHub\TipCalculator02\TipCalculator\obj\iPhoneSimulator\Debug\TipCalculator.exe
+C:\Repo\GitHub\TipCalculator02\TipCalculator\obj\iPhoneSimulator\Debug\TipCalculator.pdb
+C:\Repo\GitHub\TipCalculator02\TipCalculator\obj\iPhoneSimulator\Debug\TipCalculator.exe.mdb
+C:\Repo\GitHub\TipCalculator02\TipCalculator\bin\iPhoneSimulator\Debug\TipCalculator.exe.mdb

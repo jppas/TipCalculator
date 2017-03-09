@@ -17,13 +17,23 @@ namespace TipCalculator
 
 		public override bool FinishedLaunching (UIApplication application, NSDictionary launchOptions)
 		{
-			// Override point for customization after application launch.
-			// If not required for your application you can safely delete this method
+            // Override point for customization after application launch.
+            // If not required for your application you can safely delete this method
 
-			return true;
-		}
+            //Lesson: Ex02-Step01-Create a new window based on the screen size
+            Window = new UIWindow(UIScreen.MainScreen.Bounds);
 
-		public override void OnResignActivation (UIApplication application)
+            //Lesson: Ex02-Step02-Assign the root view controller
+            Window.RootViewController = new MyViewController();
+
+            //Lesson: Ex02-Step03-make the window visible
+            Window.MakeKeyAndVisible();
+
+            return true;
+
+        }
+
+        public override void OnResignActivation (UIApplication application)
 		{
 			// Invoked when the application is about to move from active to inactive state.
 			// This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) 
