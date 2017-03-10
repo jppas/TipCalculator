@@ -1,0 +1,10 @@
+C:\Repo\GitHub\TipCalculator\TipCalculator\bin\iPhone\Debug\TipCalculator.exe
+C:\Repo\GitHub\TipCalculator\TipCalculator\bin\iPhone\Debug\TipCalculator.pdb
+C:\Repo\GitHub\TipCalculator\TipCalculator\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Repo\GitHub\TipCalculator\TipCalculator\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Repo\GitHub\TipCalculator\TipCalculator\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Repo\GitHub\TipCalculator\TipCalculator\obj\iPhone\Debug\optimized\
+C:\Repo\GitHub\TipCalculator\TipCalculator\obj\iPhone\Debug\TipCalculator.exe
+C:\Repo\GitHub\TipCalculator\TipCalculator\obj\iPhone\Debug\TipCalculator.pdb
+C:\Repo\GitHub\TipCalculator\TipCalculator\obj\iPhone\Debug\TipCalculator.exe.mdb
+C:\Repo\GitHub\TipCalculator\TipCalculator\bin\iPhone\Debug\TipCalculator.exe.mdb

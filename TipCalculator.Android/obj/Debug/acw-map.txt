@@ -1,0 +1,4 @@
+TipCalculator.Android.MainActivity, TipCalculator.Android;md5682107b338c3bae953b6c0d3e8985d52.MainActivity
+TipCalculator.Android.MainActivity, TipCalculator.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5682107b338c3bae953b6c0d3e8985d52.MainActivity
+TipCalculator.Android.MainActivity;md5682107b338c3bae953b6c0d3e8985d52.MainActivity
+tipcalculator.android.MainActivity;md5682107b338c3bae953b6c0d3e8985d52.MainActivity
